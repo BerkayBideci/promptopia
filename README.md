@@ -1,5 +1,6 @@
-[---Live Link---](https://promptopia-bf9v1fkpa-berkaybideci.vercel.app/) (The project is still in progress)
----
+Promptopia is an open-source AI prompting tool for modern world to discover, create, and share creative prompts. The project is still in progress and is built following [this amazing guide](https://www.youtube.com/watch?v=wm5gMKuwSYk&t=4909s) provided by **JavaScript Mastery**.
+
+##
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
